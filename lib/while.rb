@@ -1,8 +1,8 @@
 def using_while(phrase)
   levitation_force = 6
-	while levitation_force < log10
-	puts "Wingardium Leviosa" 
-  #your code here
+	while levitation_force < 10
+	puts "Wingardium Leviosa"
+  
 end
 
 
